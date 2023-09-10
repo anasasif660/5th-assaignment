@@ -1,0 +1,7 @@
+header#navbar{
+    z-index: 999;
+}
+
+.box{
+    min-height: 400px;
+}
